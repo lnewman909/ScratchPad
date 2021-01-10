@@ -1,6 +1,3 @@
 # ScratchPad
-
-
-This is my area to make changes.
-
-Hello world this is a test
+# Exceptions List for Python
+https://docs.python.org/3.6/library/exceptions.html
